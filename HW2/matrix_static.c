@@ -1,6 +1,8 @@
 /* File: matrix_static.c */
 #include "matrix_static.h"
 
+#define FORMAT "%3.0f"
+
 matrix create_empty(int rdim, int cdim)
 {
 	  int i;
