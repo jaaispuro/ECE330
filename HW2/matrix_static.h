@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
-#define FORMAT "%8.3lf"
+#define FORMAT "%3.0f"
 #define MAX_ROW 10
 #define MAX_COL 10
 
